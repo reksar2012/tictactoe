@@ -1,0 +1,9 @@
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\bin\Debug\wf_tictactoe.exe.config
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.Form1.resources
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.Properties.Resources.resources
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csproj.GenerateResource.Cache
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\bin\Debug\wf_tictactoe.exe
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\bin\Debug\wf_tictactoe.pdb
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.exe
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.pdb
+C:\Users\serg1\Documents\Visual Studio 2015\Projects\Проекты\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csprojResolveAssemblyReference.cache
